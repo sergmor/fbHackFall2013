@@ -1,16 +1,16 @@
-$(document).ready(function() {
-  $.ajaxSetup({ cache: true });
-  //$.getScript('//connect.facebook.net/en_UK/all.js', function(){
-  $.getScript('http://connect.facebook.net/en_UK/all.js', function(){
-    FB.init({
-      appId: '192862290899596',
-      //channelUrl: '//http://safe-bastion-1517.herokuapp.com/channel.html',
-      channelUrl: './channel.html',
-    });     
-    $('#loginbutton,#feedbutton').removeAttr('disabled');
-    FB.getLoginStatus(updateStatusCallback);
-  });
-});
+//$(document).ready(function() {
+//	$.ajaxSetup({ cache: true });
+   //$.getScript('//connect.facebook.net/en_UK/all.js', function(){
+//   $.getScript('http://connect.facebook.net/en_US/all.js', function(){
+//     FB.init({
+//       appId: '192862290899596',
+       //channelUrl: '//http://safe-bastion-1517.herokuapp.com/channel.html',
+//       channelUrl: './channel.html',
+//     });     
+//     $('#loginbutton,#feedbutton').removeAttr('disabled');
+//     FB.getLoginStatus(updateStatusCallback);
+//   });
+//});
 
 
 // callback from facebook..?
