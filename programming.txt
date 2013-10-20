@@ -1,0 +1,6 @@
+PROGRAMMING
+
+erlang : high
+cloud computing : medium
+javascript : easy
+java ee : medium
