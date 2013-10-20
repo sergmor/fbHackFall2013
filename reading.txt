@@ -1,0 +1,6 @@
+READING
+
+goethe : hard
+plato : easy
+adams : medium
+cormen : hard
