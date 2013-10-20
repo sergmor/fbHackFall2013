@@ -1,0 +1,6 @@
+THEORY
+
+complexity theory : hard
+learning theory : hard
+logic : easy
+compilers : medium
